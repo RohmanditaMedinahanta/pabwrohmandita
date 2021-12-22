@@ -1,0 +1,7 @@
+Sebelum menjalankannya, silahkan membuat databasenya dahulu, langkah-langkahnya :
+1.Download dan install xampp jika belum
+2.Start kan apache dan mysql-nya
+3.Masuk ke phpmyadmin lewat browser http://localhost/phpmyadmin
+4.Buat Database baru bernama ukm_bahagia_db
+5.Import file sql yang ada pada folder ini yaitu ukm_bahagia_db.sql
+6.Selesai
